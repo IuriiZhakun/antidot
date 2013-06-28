@@ -1,8 +1,7 @@
 antidot
 =======
-1) Make large map image:
-   1) Use stitching http://ramsrigoutham.com/2012/11/22/panorama-image-stitching-in-opencv/
-2) Recognize AHERO
+
+1) Recognize AHERO
    1) Use SURF (becuase it's scale/rotation invariant) 
       http://achuwilson.wordpress.com/2011/08/05/object-detection-using-surf-in-opencv-part-1/
       If it's slow, use CUDA version http://www.d2.mpi-inf.mpg.de/surf
@@ -29,7 +28,10 @@ antidot
            5) attack the same forest creep
            6) if hp is low < 30%, then escape
               1) if mp enough, tp base, else walk base
-                 
+              
+2) Make large map image:
+   1) Use stitching http://ramsrigoutham.com/2012/11/22/panorama-image-stitching-in-opencv/   
+   
 3) Track AHERO
    1) Map AHERO movement in the image map(1). 
    2) Store using relative coordinates from micro ('mini') map.
