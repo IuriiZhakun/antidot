@@ -8,6 +8,7 @@ antidot
       
 2.1) Implement strategy for jungler.
      1) Use Prophet, because he can teleport easily.
+        1) Implement 'select' AHERO
      2) Store forest creep locations (relative cooredinates from 'mini' map)
      3) Define a sequence of visits
      4) Implement upgrades
