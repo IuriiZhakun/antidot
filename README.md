@@ -1,6 +1,7 @@
 antidot
 =======
-
+-1) Install Ubuntu
+0) Install OpenCV
 1) Recognize AHERO
    1) Use SURF (becuase it's scale/rotation invariant) 
       http://achuwilson.wordpress.com/2011/08/05/object-detection-using-surf-in-opencv-part-1/
